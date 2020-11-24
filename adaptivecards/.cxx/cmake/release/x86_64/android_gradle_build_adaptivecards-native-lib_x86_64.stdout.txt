@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/x86_64'
+ninja: no work to do.

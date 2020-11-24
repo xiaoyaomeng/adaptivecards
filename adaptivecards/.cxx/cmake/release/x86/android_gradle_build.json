@@ -1,0 +1,328 @@
+{
+  "stringTable": {
+    "0": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/x86",
+    "1": "--target=i686-none-linux-android19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -O2 -DNDEBUG -fPIC -std=gnu++1z"
+  },
+  "buildFiles": [
+    "/Users/adam.li/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/adam.li/Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/adam.li/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/adam.li/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "adaptivecards-native-lib-Release-x86": {
+      "buildCommand": "/Users/adam.li/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/x86\" adaptivecards-native-lib",
+      "buildType": "release",
+      "toolchain": "2721198199",
+      "abi": "x86",
+      "artifactName": "adaptivecards-native-lib",
+      "files": [
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/jsoncpp.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ActionParserRegistration.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/AdaptiveBase64Util.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ActionSet.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/AdaptiveCardParseException.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/AdaptiveCardParseWarning.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BaseActionElement.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BackgroundImage.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BaseCardElement.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BaseElement.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BaseInputElement.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ChoiceInput.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ChoiceSetInput.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Column.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ColumnSet.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/CollectionTypeElement.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Container.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/DateInput.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/DateTimePreparsedToken.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/DateTimePreparser.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ElementParserRegistration.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Enums.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Fact.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/FactSet.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/FeatureRegistration.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/HostConfig.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Image.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ImageSet.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Inline.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MarkDownBlockParser.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MarkDownHtmlGenerator.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MarkDownParsedResult.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MarkDownParser.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Media.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MediaSource.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/NumberInput.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/OpenUrlAction.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ParseContext.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ParseResult.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ParseUtil.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/RichTextBlock.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/RichTextElementProperties.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/SemanticVersion.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/SharedAdaptiveCard.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ShowCardAction.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/SubmitAction.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TextBlock.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TextElementProperties.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TextInput.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TextRun.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TimeInput.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ToggleInput.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ToggleVisibilityAction.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ToggleVisibilityTarget.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/UnknownElement.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/UnknownAction.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Util.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/src/main/cpp/objectmodel_wrap.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/build/intermediates/cmake/release/obj/x86/libadaptivecards-native-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "2721198199": {
+      "cppCompilerExecutable": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

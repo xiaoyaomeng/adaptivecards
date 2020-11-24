@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adaptivecards/adaptivecards.iml" filepath="$PROJECT_DIR$/.idea/modules/adaptivecards/adaptivecards.iml" group="android/adaptivecards" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobile/mobile.iml" filepath="$PROJECT_DIR$/.idea/modules/mobile/mobile.iml" group="android/mobile" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobilechatapp/mobilechatapp.iml" filepath="$PROJECT_DIR$/.idea/modules/mobilechatapp/mobilechatapp.iml" group="android/mobilechatapp" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+Executable : /Users/adam.li/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards
+-DCMAKE_CXX_FLAGS=-std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT
+-DCMAKE_FIND_ROOT_PATH=/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/prefab/x86/prefab
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_TOOLCHAIN_FILE=/Users/adam.li/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DANDROID_ABI=x86
+-DANDROID_NDK=/Users/adam.li/Library/Android/sdk/ndk-bundle
+-DANDROID_PLATFORM=android-19
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DCMAKE_ANDROID_NDK=/Users/adam.li/Library/Android/sdk/ndk-bundle
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/build/intermediates/cmake/release/obj/x86
+-DCMAKE_MAKE_PROGRAM=/Users/adam.li/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=19
+-DANDROID_STL=c++_shared
+-B/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/x86
+-GNinja
+jvmArgs : 
+
+Build command args:

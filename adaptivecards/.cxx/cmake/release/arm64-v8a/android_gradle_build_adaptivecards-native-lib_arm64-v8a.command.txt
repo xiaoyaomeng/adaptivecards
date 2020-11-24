@@ -1,0 +1,7 @@
+Executable : /Users/adam.li/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/arm64-v8a
+adaptivecards-native-lib
+jvmArgs : 
+

@@ -1,0 +1,101 @@
+ninja: Entering directory `/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/debug/x86'
+[1/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/AdaptiveCardParseWarning.cpp.o
+[2/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/AdaptiveCardParseException.cpp.o
+[3/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/AdaptiveBase64Util.cpp.o
+[4/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BackgroundImage.cpp.o
+[5/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ChoiceInput.cpp.o
+[6/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BaseInputElement.cpp.o
+[7/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ActionSet.cpp.o
+[8/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BaseActionElement.cpp.o
+[9/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BaseCardElement.cpp.o
+[10/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BaseElement.cpp.o
+[11/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ChoiceSetInput.cpp.o
+[12/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ActionParserRegistration.cpp.o
+[13/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Column.cpp.o
+[14/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/DateTimePreparsedToken.cpp.o
+[15/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/CollectionTypeElement.cpp.o
+[16/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ColumnSet.cpp.o
+[17/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/DateInput.cpp.o
+[18/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Container.cpp.o
+[19/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Fact.cpp.o
+[20/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/jsoncpp.cpp.o
+[21/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/FeatureRegistration.cpp.o
+[22/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/FactSet.cpp.o
+[23/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Image.cpp.o
+[24/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Inline.cpp.o
+[25/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ImageSet.cpp.o
+[26/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ElementParserRegistration.cpp.o
+[27/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MarkDownHtmlGenerator.cpp.o
+[28/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/DateTimePreparser.cpp.o
+[29/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MarkDownParsedResult.cpp.o
+[30/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MediaSource.cpp.o
+[31/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MarkDownParser.cpp.o
+[32/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MarkDownBlockParser.cpp.o
+[33/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/NumberInput.cpp.o
+[34/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Media.cpp.o
+[35/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ParseResult.cpp.o
+[36/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/OpenUrlAction.cpp.o
+[37/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/RichTextElementProperties.cpp.o
+[38/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ParseUtil.cpp.o
+[39/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/RichTextBlock.cpp.o
+[40/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ParseContext.cpp.o
+[41/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ShowCardAction.cpp.o
+[42/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/SubmitAction.cpp.o
+[43/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TextBlock.cpp.o
+[44/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TextRun.cpp.o
+[45/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/HostConfig.cpp.o
+[46/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TextInput.cpp.o
+[47/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/SemanticVersion.cpp.o
+[48/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/SharedAdaptiveCard.cpp.o
+[49/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TimeInput.cpp.o
+[50/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ToggleInput.cpp.o
+[51/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ToggleVisibilityTarget.cpp.o
+[52/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ToggleVisibilityAction.cpp.o
+[53/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/UnknownAction.cpp.o
+[54/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/UnknownElement.cpp.o
+[55/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TextElementProperties.cpp.o
+[56/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Util.cpp.o
+[57/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Enums.cpp.o
+[58/59] Building CXX object CMakeFiles/adaptivecards-native-lib.dir/src/main/cpp/objectmodel_wrap.cpp.o
+In file included from ../../../../src/main/cpp/objectmodel_wrap.cpp:753:
+In file included from /Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/c++/v1/string:504:
+In file included from /Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/c++/v1/string_view:175:
+In file included from /Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/c++/v1/__string:56:
+In file included from /Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/c++/v1/algorithm:643:
+/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/c++/v1/memory:2338:5: warning: delete called on 'AdaptiveCards::ActionElementParser' that is abstract but has non-virtual destructor [-Wdelete-abstract-non-virtual-dtor]
+    delete __ptr;
+    ^
+/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/c++/v1/memory:2593:7: note: in instantiation of member function 'std::__ndk1::default_delete<AdaptiveCards::ActionElementParser>::operator()' requested here
+      __ptr_.second()(__tmp);
+      ^
+/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/c++/v1/memory:2547:19: note: in instantiation of member function 'std::__ndk1::unique_ptr<AdaptiveCards::ActionElementParser, std::__ndk1::default_delete<AdaptiveCards::ActionElementParser> >::reset' requested here
+  ~unique_ptr() { reset(); }
+                  ^
+/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/c++/v1/memory:3938:21: note: in instantiation of member function 'std::__ndk1::unique_ptr<AdaptiveCards::ActionElementParser, std::__ndk1::default_delete<AdaptiveCards::ActionElementParser> >::~unique_ptr' requested here
+    unique_ptr<_Yp> __hold(__p);
+                    ^
+../../../../src/main/cpp/objectmodel_wrap.cpp:8465:87: note: in instantiation of function template specialization 'std::__ndk1::shared_ptr<AdaptiveCards::ActionElementParser>::shared_ptr<AdaptiveCards::ActionElementParser>' requested here
+  *(std::shared_ptr<  AdaptiveCards::ActionElementParser > **)&jresult = result ? new std::shared_ptr<  AdaptiveCards::ActionElementParser >(result SWIG_NO_NULL_DELETER_1) : 0;
+                                                                                      ^
+In file included from ../../../../src/main/cpp/objectmodel_wrap.cpp:753:
+In file included from /Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/c++/v1/string:504:
+In file included from /Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/c++/v1/string_view:175:
+In file included from /Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/c++/v1/__string:56:
+In file included from /Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/c++/v1/algorithm:643:
+/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/c++/v1/memory:2338:5: warning: delete called on 'AdaptiveCards::BaseCardElementParser' that is abstract but has non-virtual destructor [-Wdelete-abstract-non-virtual-dtor]
+    delete __ptr;
+    ^
+/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/c++/v1/memory:2593:7: note: in instantiation of member function 'std::__ndk1::default_delete<AdaptiveCards::BaseCardElementParser>::operator()' requested here
+      __ptr_.second()(__tmp);
+      ^
+/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/c++/v1/memory:2547:19: note: in instantiation of member function 'std::__ndk1::unique_ptr<AdaptiveCards::BaseCardElementParser, std::__ndk1::default_delete<AdaptiveCards::BaseCardElementParser> >::reset' requested here
+  ~unique_ptr() { reset(); }
+                  ^
+/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/c++/v1/memory:3938:21: note: in instantiation of member function 'std::__ndk1::unique_ptr<AdaptiveCards::BaseCardElementParser, std::__ndk1::default_delete<AdaptiveCards::BaseCardElementParser> >::~unique_ptr' requested here
+    unique_ptr<_Yp> __hold(__p);
+                    ^
+../../../../src/main/cpp/objectmodel_wrap.cpp:8810:89: note: in instantiation of function template specialization 'std::__ndk1::shared_ptr<AdaptiveCards::BaseCardElementParser>::shared_ptr<AdaptiveCards::BaseCardElementParser>' requested here
+  *(std::shared_ptr<  AdaptiveCards::BaseCardElementParser > **)&jresult = result ? new std::shared_ptr<  AdaptiveCards::BaseCardElementParser >(result SWIG_NO_NULL_DELETER_1) : 0;
+                                                                                        ^
+2 warnings generated.
+[59/59] Linking CXX shared library ../../../../build/intermediates/cmake/debug/obj/x86/libadaptivecards-native-lib.so

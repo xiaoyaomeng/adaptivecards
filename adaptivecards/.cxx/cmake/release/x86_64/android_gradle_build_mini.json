@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/adam.li/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/adam.li/Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/adam.li/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/adam.li/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "adaptivecards-native-lib-Release-x86_64": {
+      "artifactName": "adaptivecards-native-lib",
+      "buildCommand": "/Users/adam.li/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/x86_64\" adaptivecards-native-lib",
+      "abi": "x86_64",
+      "output": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/build/intermediates/cmake/release/obj/x86_64/libadaptivecards-native-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

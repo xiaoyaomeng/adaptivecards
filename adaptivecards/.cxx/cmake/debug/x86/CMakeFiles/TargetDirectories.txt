@@ -1,0 +1,3 @@
+/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/debug/x86/CMakeFiles/adaptivecards-native-lib.dir

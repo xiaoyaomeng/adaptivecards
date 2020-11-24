@@ -1,0 +1,349 @@
+[
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/jsoncpp.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/jsoncpp.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/jsoncpp.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ActionParserRegistration.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ActionParserRegistration.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ActionParserRegistration.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/AdaptiveBase64Util.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/AdaptiveBase64Util.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/AdaptiveBase64Util.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ActionSet.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ActionSet.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ActionSet.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/AdaptiveCardParseException.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/AdaptiveCardParseException.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/AdaptiveCardParseException.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/AdaptiveCardParseWarning.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/AdaptiveCardParseWarning.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/AdaptiveCardParseWarning.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BaseActionElement.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BaseActionElement.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BaseActionElement.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BackgroundImage.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BackgroundImage.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BackgroundImage.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BaseCardElement.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BaseCardElement.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BaseCardElement.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BaseElement.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BaseElement.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BaseElement.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BaseInputElement.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BaseInputElement.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/BaseInputElement.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ChoiceInput.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ChoiceInput.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ChoiceInput.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ChoiceSetInput.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ChoiceSetInput.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ChoiceSetInput.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Column.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Column.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Column.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ColumnSet.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ColumnSet.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ColumnSet.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/CollectionTypeElement.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/CollectionTypeElement.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/CollectionTypeElement.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Container.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Container.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Container.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/DateInput.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/DateInput.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/DateInput.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/DateTimePreparsedToken.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/DateTimePreparsedToken.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/DateTimePreparsedToken.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/DateTimePreparser.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/DateTimePreparser.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/DateTimePreparser.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ElementParserRegistration.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ElementParserRegistration.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ElementParserRegistration.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Enums.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Enums.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Enums.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Fact.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Fact.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Fact.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/FactSet.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/FactSet.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/FactSet.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/FeatureRegistration.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/FeatureRegistration.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/FeatureRegistration.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/HostConfig.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/HostConfig.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/HostConfig.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Image.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Image.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Image.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ImageSet.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ImageSet.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ImageSet.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Inline.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Inline.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Inline.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MarkDownBlockParser.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MarkDownBlockParser.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MarkDownBlockParser.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MarkDownHtmlGenerator.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MarkDownHtmlGenerator.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MarkDownHtmlGenerator.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MarkDownParsedResult.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MarkDownParsedResult.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MarkDownParsedResult.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MarkDownParser.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MarkDownParser.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MarkDownParser.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Media.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Media.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Media.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MediaSource.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MediaSource.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/MediaSource.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/NumberInput.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/NumberInput.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/NumberInput.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/OpenUrlAction.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/OpenUrlAction.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/OpenUrlAction.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ParseContext.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ParseContext.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ParseContext.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ParseResult.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ParseResult.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ParseResult.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ParseUtil.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ParseUtil.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ParseUtil.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/RichTextBlock.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/RichTextBlock.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/RichTextBlock.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/RichTextElementProperties.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/RichTextElementProperties.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/RichTextElementProperties.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/SemanticVersion.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/SemanticVersion.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/SemanticVersion.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/SharedAdaptiveCard.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/SharedAdaptiveCard.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/SharedAdaptiveCard.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ShowCardAction.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ShowCardAction.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ShowCardAction.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/SubmitAction.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/SubmitAction.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/SubmitAction.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TextBlock.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TextBlock.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TextBlock.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TextElementProperties.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TextElementProperties.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TextElementProperties.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TextInput.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TextInput.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TextInput.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TextRun.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TextRun.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TextRun.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TimeInput.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TimeInput.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/TimeInput.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ToggleInput.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ToggleInput.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ToggleInput.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ToggleVisibilityAction.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ToggleVisibilityAction.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ToggleVisibilityAction.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ToggleVisibilityTarget.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ToggleVisibilityTarget.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/ToggleVisibilityTarget.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/UnknownElement.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/UnknownElement.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/UnknownElement.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/UnknownAction.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/UnknownAction.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/UnknownAction.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Util.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Util.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/shared/cpp/ObjectModel/Util.cpp"
+},
+
+{
+  "directory": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/adam.li/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dadaptivecards_native_lib_EXPORTS -I../../../../../../shared/cpp/ObjectModel -I../../../../../../shared/cpp/ObjectModel/json  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++14 -fexceptions -frtti -DNO_LOCALE_SUPPORT -Oz -DNDEBUG  -fPIC   -std=gnu++1z -o CMakeFiles/adaptivecards-native-lib.dir/src/main/cpp/objectmodel_wrap.cpp.o -c /Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/src/main/cpp/objectmodel_wrap.cpp",
+  "file": "/Users/adam.li/Develop/AdaptiveCards/source/android/adaptivecards/src/main/cpp/objectmodel_wrap.cpp"
+}
+]
